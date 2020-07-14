@@ -1,0 +1,12 @@
+D:\.Net\wpf_first\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+D:\.Net\wpf_first\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+D:\.Net\wpf_first\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\.Net\wpf_first\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+D:\.Net\wpf_first\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+D:\.Net\wpf_first\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+D:\.Net\wpf_first\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+D:\.Net\wpf_first\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+D:\.Net\wpf_first\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+D:\.Net\wpf_first\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+D:\.Net\wpf_first\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+D:\.Net\wpf_first\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb

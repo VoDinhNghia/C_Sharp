@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="btn1" Content="Đăng" Click="Button_Click" HorizontalAlignment="Left" Margin="35,95,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox x:Name="tbox1" HorizontalAlignment="Left" Height="42" Margin="25,48,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="230"/>
+        <Label Content="The first application of me" FontSize="25" Foreground="Green" HorizontalAlignment="Left" Margin="90,0,0,0" VerticalAlignment="Top" Width="353"/>
+        <Label x:Name="lbl_date" Content="" Foreground="Red" HorizontalAlignment="Left" Margin="25,133,0,0" VerticalAlignment="Top" Width="129" Height="23"/>
+        <TextBlock x:Name="lbl_tbox_contend" Text="" TextWrapping="Wrap" Foreground="Blue" FontSize="16" HorizontalAlignment="Left" Margin="7,164,0,0" VerticalAlignment="Top" Width="147" Height="145" RenderTransformOrigin="0.5,0.5">
+
+        </TextBlock>
+        <DataGrid x:Name="g1" HorizontalAlignment="Left" SelectionChanged="g1_SelectionChanged" Margin="180,158,0,0" VerticalAlignment="Top" Width="327" Height="151">
+
+        </DataGrid>
+        <Label Content="Nội dung" HorizontalAlignment="Left" Margin="355,48,0,0" VerticalAlignment="Top" Height="28" Width="88"/>
+        <TextBlock x:Name="tbox_contend_sua" HorizontalAlignment="Left" Margin="284,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="45" Width="223"/>
+        <Button x:Name="btn_sua" Content="Sửa" Click="btn_sua_Click" HorizontalAlignment="Left" Margin="180,95,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btn_xoa" Content="Xóa" Click="btn_xoa_Click" HorizontalAlignment="Left" Margin="180,125,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>
+
